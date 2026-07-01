@@ -1,0 +1,51 @@
+canonical_identifier: bkk:krp/KR6j0303/v1
+canonical_location: https://kanripo.org/bkk/KR6j0303/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 不空羂索呪心經
+  identifiers:
+    alt_id:
+    - T20n1095
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1095.xml
+    old_id: T20n1095
+  edition:
+    short: bkk
+editions:
+- short: 元
+  label: 元
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0303_000.yaml, hash: 'sha256:64688c037e2cc31808c7134538ec16a02eaf36ea6e53695e50aec140a4974058'}
+  - {seq: 1, filename: KR6j0303_001.yaml, hash: 'sha256:ff067b8c80fc628cb5744ea78b2ca04b94fc54c7b7642a3ed16c935ce842cdbc'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0303_001.markers.yaml, hash: 'sha256:59b418c672c355230332c8d89f11c9873a25039ab67c4114e5898447a1849824'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0303_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5006
+  label: 不空羂索呪心經
+  type: juan
+  level: 1
+hash: sha256:b8a1f1cd158d0a5bd8cd06c2ab6c5af514ea97f3013ae2e00a759d9c57e8774e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

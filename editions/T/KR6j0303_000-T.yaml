@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0303/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 不空羂索呪心經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1095.xml
+    old_id: T20n1095
+hash: sha256:64688c037e2cc31808c7134538ec16a02eaf36ea6e53695e50aec140a4974058
