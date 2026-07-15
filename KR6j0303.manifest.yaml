@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0303/v1
 canonical_location: https://kanripo.org/bkk/KR6j0303/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 不空羂索呪心經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0303_000.yaml, hash: 'sha256:64688c037e2cc31808c7134538ec16a02eaf36ea6e53695e50aec140a4974058'}
-  - {seq: 1, filename: KR6j0303_001.yaml, hash: 'sha256:b80f16aa848d5649b019848fd3d90862440d9c335a2966aba3d66416aa542573'}
+  - {seq: 1, filename: KR6j0303_001.yaml, hash: 'sha256:72fd1b9b22f68835c3046877d32a444a09761ece6ac8fa1456bbc00a6b686cd4'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0303_000.markers.yaml, hash: 'sha256:6fa8253a8fdbf39baf7758d9bb2c1959d243d060b9800b21e4582a10c692c244'}
-  - {seq: 1, role: markers, filename: assets/KR6j0303_001.markers.yaml, hash: 'sha256:347b4e83a86b3d4c3ec3e3c5513daa148ad00346df51237def5fbaf000eef2f0'}
+  - {seq: 1, role: markers, filename: assets/KR6j0303_001.markers.yaml, hash: 'sha256:4a80f740fcd841b19d59cb7b85133871e68de888ae2ef1c9892f062549edc852'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 不空羂索呪心經
   type: juan
   level: 1
-hash: sha256:ee9ef9f2cd7ac1883c02a844a67df12fc58cc7e656a33419801ac39264c1c564
+hash: sha256:104a337cc965b460d1abd6a1f246811979f31a646d5d67fb071c64faf2ad11b5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
