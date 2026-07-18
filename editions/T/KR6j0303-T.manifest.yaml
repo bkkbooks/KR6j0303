@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6j0303_000-T.yaml, hash: 'sha256:64688c037e2cc31808c7134538ec16a02eaf36ea6e53695e50aec140a4974058'}
   - {seq: 1, filename: KR6j0303_001-T.yaml, hash: 'sha256:b80f16aa848d5649b019848fd3d90862440d9c335a2966aba3d66416aa542573'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0303_000-T.markers.yaml, hash: 'sha256:09664ed8dcc1fb55b18335524a571aa6f010027ea994d279c1a68c646de8b613'}
+  - {seq: 0, role: markers, filename: assets/KR6j0303_000-T.markers.yaml, hash: 'sha256:df918729713e364e1e9d963ef9af491455a0863a3833b8b41293e2cd3a5a96d6'}
   - {seq: 1, role: markers, filename: assets/KR6j0303_001-T.markers.yaml, hash: 'sha256:7aac85d524f298506544d2e6eb2a6b322c6d0700f849cd7e4bfd3a6ccd7011e9'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 不空羂索呪心經
   type: juan
   level: 1
-hash: sha256:37a241eda0816f2b287dbe5ebc6e54364f9684fb32fa874bfd1e2668bd2830b2
+hash: sha256:895038a6f58923d9294daeee9865b5226d4cced4df5b0c9b8745bde4bfa659f5
